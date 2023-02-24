@@ -18,6 +18,7 @@ As someone who is always passionate for learning more about tech and extracting 
 💻 **Languages and Tools:** 🛠️<br>
 
 
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white)
