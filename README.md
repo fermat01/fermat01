@@ -6,6 +6,7 @@ As someone who is always passionate for learning more about tech and extracting 
 
 
 
+
 ![Vianney's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fermat01&show_icons=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fermat01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
