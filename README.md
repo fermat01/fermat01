@@ -16,7 +16,7 @@ I have evolved into a Full Stack web development projects and digital systems.
 <table>
 <td>
 <img align="center"
-  src="https://github-readme-stats-fermat01.vercel.app/api?username=fermat01&theme=bluefy&show_icons=true&hide_border=true" />
+  src="https://github-readme-stats-fermat01.vercel.app/api?username=fermat01&theme=bluefy&show_icons=true&hide_border=true&count_private=true" />
 </td>
 <td>
 <img align="center"
