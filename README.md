@@ -1,4 +1,7 @@
 
+
+<img src="https://github.com/fermat01/fermat01/blob/master/logo-readme.gif" width="415px">
+
 <!--
 ### 👋  hi, there 
 
@@ -8,7 +11,7 @@ using machine learning algorithms and ever since been a self taught software dev
 I have evolved into a Full Stack web development projects and digital systems.
 -->
 
-
+<!--
 <table>
 <td>
 <img align="center"
@@ -20,6 +23,7 @@ I have evolved into a Full Stack web development projects and digital systems.
 </td>
 </table>
 
+-->
 
 
 ## Skills
