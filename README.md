@@ -12,7 +12,7 @@ using machine learning algorithms and ever since been a self taught software dev
 I have evolved into a Full Stack web development projects and digital systems.
 -->
 
-<!--
+
 <table>
 <td>
 <img align="center"
@@ -23,7 +23,7 @@ I have evolved into a Full Stack web development projects and digital systems.
      src="https://github-readme-stats-fermat01.vercel.app/api/top-langs/?username=fermat01&size_weight=0.5&count_weight=0.5&layout=compact&theme=bluefy&langs_count=8&hide_border=true" />
 </td>
 </table>
--->
+
 
 ## Skills
 
