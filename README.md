@@ -1,7 +1,7 @@
 
 
 
-<img src="https://github.com/fermat01/fermat01/blob/master/logo-readme.gif" width="300px" height=200px>
+<img src="https://github.com/fermat01/fermat01/blob/master/logo-readme.gif" width="400px" height=200px>
 
 <!--
 ### 👋  hi, there 
