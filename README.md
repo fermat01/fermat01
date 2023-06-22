@@ -8,7 +8,7 @@ using machine learning algorithms and ever since been a self taught software dev
 I have evolved into a Full Stack web development projects and digital systems.
 -->
 
-<!--
+
 <table>
 <td>
 <img align="center"
@@ -65,7 +65,6 @@ I have evolved into a Full Stack web development projects and digital systems.
 
 `Machine learning`, `Deep learning`,  `AI`, `Big Data and Data analysis`, `statistics`, `Databases`, `3rd Party API` ,`Object-Oriented Programming`, `data structures and algorithms`, `CI/CD`,  `Cloud computing`, `web development`.
 
--->
 
 <!--
 **fermat01/fermat01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
