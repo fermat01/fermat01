@@ -12,7 +12,6 @@ using machine learning algorithms and ever since been a self taught software dev
 I have evolved into a Full Stack web development projects and digital systems.
 -->
 
-
 <table>
 <td>
 <img align="center"
