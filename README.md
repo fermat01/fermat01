@@ -15,11 +15,11 @@ I have evolved into a Full Stack web development projects and digital systems.
 <table>
 <td>
 <img align="center"
-  src="https://github-readme-stats-jade-chi.vercel.app/api?username=fermat01&theme=bluefy&show_icons=true&hide_border=true&count_private=true" />
+  src="https://github-readme-stats-fermat01.vercel.app/api?username=fermat01&theme=bluefy&show_icons=true&hide_border=true&count_private=true" />
 </td>
 <td>
 <img align="center"
-     src="https://github-readme-stats-jade-chi.vercel.app/api/top-langs/?username=fermat01&size_weight=0.5&count_weight=0.5&layout=compact&theme=bluefy&langs_count=8&hide_border=true" />
+     src="https://github-readme-stats-fermat01.vercel.app/api/top-langs/?username=fermat01&size_weight=0.5&count_weight=0.5&layout=compact&theme=bluefy&langs_count=8&hide_border=true" />
 </td>
 </table>
 
