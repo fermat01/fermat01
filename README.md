@@ -20,10 +20,6 @@ I have evolved into a Full Stack web development projects and digital systems.
 <img align="center"
      src="https://github-readme-stats-jade-chi.vercel.app/api/top-langs/?username=fermat01&size_weight=0.5&count_weight=0.5&layout=compact&theme=bluefy&langs_count=8&hide_border=true" />
 </td>
-</table>
-
-
-<table>
 <td>
 ### 👋  hi, there 
 
@@ -37,6 +33,9 @@ I have evolved into a Full Stack web development projects and digital systems.
     src="https://github.com/fermat01/fermat01/blob/master/logo-prof.gif" width="350px" height=200px/>
 </td>
 </table>
+
+
+
 
 <!--
 <img src="https://github.com/fermat01/fermat01/blob/master/logo-prof.gif" width="350px" height=200px>
