@@ -1,8 +1,6 @@
 
 
 
-<img src="https://github.com/fermat01/fermat01/blob/master/logo-prof.gif" width="350px" height=200px>
-
 <!--
 ### 👋  hi, there 
 
@@ -23,6 +21,8 @@ I have evolved into a Full Stack web development projects and digital systems.
 </td>
 </table>
 
+
+<img src="https://github.com/fermat01/fermat01/blob/master/logo-prof.gif" width="350px" height=200px>
 
 ## Skills
 
