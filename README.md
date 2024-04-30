@@ -12,8 +12,12 @@ I have evolved into a Full Stack web development projects and digital systems.
 
 <table>
 <td>
-<img align="center"
-  src="https://github-readme-stats-jade-chi.vercel.app/api?username=fermat01&theme=bluefy&show_icons=true&hide_border=true&count_private=true" />
+### 👋  hi, there 
+
+As someone who is always passionate for learning more about tech and extracting information from data.
+I love to build systems that collect, manage, and convert raw data into usable information, analyze data
+using machine learning algorithms and ever since been a self taught software developer also unstopped learner. 
+I have evolved into a Full Stack web development projects and digital systems.
 </td>
 <td>
 <img align="center"
@@ -22,8 +26,19 @@ I have evolved into a Full Stack web development projects and digital systems.
 </table>
 
 
+<table>
+<td>
+<img align="center"
+  src="https://github-readme-stats-jade-chi.vercel.app/api?username=fermat01&theme=bluefy&show_icons=true&hide_border=true&count_private=true" />
+</td>
+<td>
+<img align="center"
+    src="https://github.com/fermat01/fermat01/blob/master/logo-prof.gif" width="350px" height=200px/>
+</td>
+</table>
+<!--
 <img src="https://github.com/fermat01/fermat01/blob/master/logo-prof.gif" width="350px" height=200px>
-
+-->
 ## Skills
 
 💻 **Languages and Tools:** 🛠️<br>
