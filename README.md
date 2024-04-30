@@ -34,7 +34,7 @@ I have evolved into a Full Stack web development projects and digital systems.
 </td>
 <td>
 <img align="center"
-    src="https://github.com/fermat01/fermat01/blob/master/logo-prof.gif" width="325px" height=175px/>
+    src="https://github.com/fermat01/fermat01/blob/master/logo-prof.gif" width="350px" height=200px/>
 </td>
 </table>
 
