@@ -9,6 +9,9 @@ I love to build systems that collect, manage, and convert raw data into usable i
 using machine learning algorithms and ever since been a self taught software developer also unstopped learner. 
 I have evolved into a Full Stack web development projects and digital systems.
 -->
+<!--
+<img src="https://github.com/fermat01/fermat01/blob/master/logo-prof.gif" width="350px" height=200px>
+-->
 
 <table>
      <td>
@@ -26,9 +29,7 @@ I have evolved into a Full Stack web development projects and digital systems.
 
 
 
-<!--
-<img src="https://github.com/fermat01/fermat01/blob/master/logo-prof.gif" width="350px" height=200px>
--->
+
 ## Skills
 
 💻 **Languages and Tools:** 🛠️<br>
