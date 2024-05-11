@@ -28,7 +28,6 @@ I have evolved into a Full Stack web development projects and digital systems.
 
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="06986f11-4df4-484e-80dd-e1d5f173da28" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## Skills
 
