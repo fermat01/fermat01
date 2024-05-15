@@ -21,7 +21,7 @@ I have evolved into a Full Stack web development projects and digital systems.
 
 <td>
 <img align="center"
-     src="https://github-readme-stats-jade-chi.vercel.app/api/top-langs/?username=fermat01&size_weight=0.5&count_weight=0.5&layout=compact&theme=bluefy&langs_count=8&hide_border=true&hide=Jupyter Notebook" />
+     src="https://github-readme-stats-jade-chi.vercel.app/api/top-langs/?username=fermat01&size_weight=0.5&count_weight=0.5&layout=compact&theme=bluefy&langs_count=8&hide_border=true&hide=Jupyter" />
 </td>
 
 </table>
