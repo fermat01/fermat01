@@ -44,6 +44,7 @@ https://github.com/inttter/md-badges
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 ![Shell Script](https://img.shields.io/badge/Shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
