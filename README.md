@@ -33,10 +33,10 @@ I have evolved into a Full Stack web development projects and digital systems.
 
 💻 **Languages and Tools:** 🛠️<br>
 
-
-
-
-
+<!--
+Badges url list
+https://github.com/inttter/md-badges
+-->
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
@@ -44,7 +44,7 @@ I have evolved into a Full Stack web development projects and digital systems.
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![c#](https://img.shields.io/badge/c-%23276DC3.svg?style=flat&logo=c-sharp&logoColor=white)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Shell Script](https://img.shields.io/badge/Shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
@@ -62,9 +62,13 @@ I have evolved into a Full Stack web development projects and digital systems.
 ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/Sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
+![SQLite](https://img.shields.io/badge/Sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+
 
 
 
