@@ -44,7 +44,7 @@ I have evolved into a Full Stack web development projects and digital systems.
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C-%23276DC3?style=for-the-badge&logo=c-sharp&logoColor=white)
+![c#](https://img.shields.io/badge/c-%23276DC3.svg?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Shell Script](https://img.shields.io/badge/Shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
