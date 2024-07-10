@@ -12,7 +12,7 @@ I have evolved into a Full Stack web development projects and digital systems.
 <!--
 <img src="https://github.com/fermat01/fermat01/blob/master/logo-prof.gif" width="350px" height=200px>
 -->
-<img src="https://github.com/fermat01/fermat01/blob/master/logo-prof.gif" width="350px" height=200px>
+
 <table>
      <td>
 <img align="center"
