@@ -77,7 +77,7 @@ https://github.com/inttter/md-badges
 
 🧐 **Knowledge of:**<br>
 
-`Machine learning`, `Deep learning`,  `AI`, `Big Data and Data analysis`, `statistics`, `Databases`, `3rd Party API` ,`Object-Oriented Programming`, `data structures and algorithms`, `CI/CD`,  `Cloud computing`, `web development`.
+`Machine learning`, `Deep learning`,  `AI`, `Big Data and Data analysis`, `statistics`, `Databases`, `3rd Party API` ,`Object-Oriented Programming`, `data structures and algorithms`, `CI/CD`,  `Cloud computing`, `software development`.
 
 
 <!--
