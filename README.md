@@ -12,7 +12,7 @@ I have evolved into a Full Stack web development projects and digital systems.
 <!--
 <img src="https://github.com/fermat01/fermat01/blob/master/logo-prof.gif" width="350px" height=200px>
 -->
-
+<img src="https://github.com/fermat01/fermat01/blob/master/logo-prof.gif" width="350px" height=200px>
 <table>
      <td>
 <img align="center"
@@ -61,7 +61,7 @@ https://github.com/inttter/md-badges
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=Apache%20Kafka&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/Sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 [![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff)](#)
