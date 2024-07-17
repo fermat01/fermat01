@@ -13,6 +13,14 @@ I have evolved into a Full Stack web development projects and digital systems.
 <img src="https://github.com/fermat01/fermat01/blob/master/logo-prof.gif" width="350px" height=200px>
 -->
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fermat01.fermat01" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vianney!;" />
+</h1>
+
+
+
 <table>
      <td>
 <img align="center"
