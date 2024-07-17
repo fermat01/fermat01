@@ -14,6 +14,13 @@ I have evolved into a Full Stack web development projects and digital systems.
 -->
 
 <table>
+
+     <td>
+     <img align="center"
+       <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/fermat01/fermat01/output/github-contribution-grid-snake.svg" />
+     </td>
+
+     
      <td>
 <img align="center"
   src="https://github-readme-stats-jade-chi.vercel.app/api?username=fermat01&theme=bluefy&show_icons=true&hide_border=true&count_private=true" />
