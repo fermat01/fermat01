@@ -3,6 +3,8 @@
 
 <!--
 ### 👋  hi, there 
+I'm a passionate **Software Developer** and **AI/ML Engineer** with a strong focus on **Data Engineering** and a deep enthusiasm for **AWS Cloud technologies**. 
+My journey in tech has been driven by a desire to leverage data and machine learning to solve real-world problems.
 
 As someone who is always passionate for learning more about tech and extracting information from data.
 I love to build systems that collect, manage, and convert raw data into usable information, analyze data
