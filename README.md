@@ -15,7 +15,7 @@ I have evolved into a Full Stack web development projects and digital systems.
 -->
 
 
-<img align="right" src="https://komarev.com/ghpvc/?username=fermat01&color=blue&style=flat-square" />
+<img align="right" src="https://komarev.com/ghpvc/?username=fermat01&color=blue&style=for-the-badge" />
 
 
 
