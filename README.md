@@ -1,6 +1,3 @@
-
-
-
 <!--
 ### 👋  hi, there 
 I'm a passionate **Software Developer** and **AI/ML Engineer** with a strong focus on **Data Engineering** and a deep enthusiasm for **AWS Cloud technologies**. 
