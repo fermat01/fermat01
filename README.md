@@ -11,10 +11,13 @@ I have evolved into a Full Stack web development projects and digital systems.
 <!--
 <img src="https://github.com/fermat01/fermat01/blob/master/logo-prof.gif" width="350px" height=200px>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fermat01" />
+<img align="right" src="https://profile-counter.glitch.me/fermat01/count.svg" />
 -->
 
 
-![Visitor Count](https://profile-counter.glitch.me/fermat01/count.svg)
+<img align="right" src="https://komarev.com/ghpvc/?username=fermat01&color=blue&style=flat-square" />
+
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Vianney+!;" />
