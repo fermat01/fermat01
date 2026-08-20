@@ -41,54 +41,18 @@ I have evolved into a Full Stack web development projects and digital systems.
 
 
 
-## Skills
+## Technical Skills 💻 
 
-💻 **Languages and Tools:** 🛠️<br>
-
-<!--
-Badges url list
-https://github.com/inttter/md-badges
-[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
--->
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
-![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-[![Go](https://custom-icon-badges.demolab.com/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-![Shell Script](https://img.shields.io/badge/Shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FFFFFF?style=flat&logo=Apache%20Spark&logoColor=E24F26)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=Apache%20Kafka&logoColor=white) 
-![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/Sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-[![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff)](#) 
-[![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?logo=apache-cassandra&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-
-
-
-
-
-🧐 **Knowledge of:**<br>
-
-`Machine learning`, `Deep learning`,  `AI`, `Big Data and Data analysis`, `statistics`, `Databases`, `3rd Party API` ,`Object-Oriented Programming`, `data structures and algorithms`, `CI/CD`, `distributed systems`, `Cloud computing`, `software development`.
-
-
+| Category | Skills |
+|:---|:---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) [![Go](https://custom-icon-badges.demolab.com/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) ![Shell Script](https://img.shields.io/badge/Shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) |
+| **Data Science & AI** | ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-412991?style=flat&logo=pytorch&logoColor=white) ![AI](https://img.shields.io/badge/AI-000000?style=flat&logo=openai&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-276DC3?style=flat&logo=r&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-150458?style=flat&logo=pandas&logoColor=white) |
+| **Data Engineering** | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FFFFFF?style=flat&logo=Apache%20Spark&logoColor=E24F26) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=Apache%20Kafka&logoColor=white) ![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Streaming](https://img.shields.io/badge/Streaming-009688?style=flat&logo=apachekafka&logoColor=white) ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) |
+| **MLOps & Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat&logo=fastapi&logoColor=white) ![Automated Testing](https://img.shields.io/badge/Automated%20Testing-25A162?style=flat&logo=pytest&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/Sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) [![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff)](#) [![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?logo=apache-cassandra&logoColor=white)](#) |
+| **Web Development** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) 
+|
 <!--
 **fermat01/fermat01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
