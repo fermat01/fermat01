@@ -1,17 +1,14 @@
-<div align="center">
 
+<h1 align="center">
   <img
     src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=58A6FF&lines=Hi+There!+👋;I'm+Vianney"
     alt="Typing animation"
   />
-
   <br>
-
-  <strong style="font-size:36px; color:#58A6FF;">
+  <span style="color:#58A6FF; font-size:36px;">
     Data &amp; AI Engineer
-  </strong>
-
-</div>
+  </span>
+</h1>
 
 
 
