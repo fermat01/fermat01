@@ -1,6 +1,4 @@
-<!--
-<img align="right" src="https://komarev.com/ghpvc/?username=fermat01&color=blue&style=for-the-badge&label=Vianney's+profile+views" />
--->
+
 
 <div align="center">
 
