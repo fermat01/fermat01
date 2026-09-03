@@ -7,9 +7,9 @@
 
   <br>
 
-  <div style="font-size: 36px; font-weight: bold; color: #58A6FF; margin: 0;">
+  <h1 style="font-size: 36px; font-weight: bold; color: #58A6FF; margin: 0;">
     Data & AI Engineer
-  </div>
+  </h1>
 
 </div>
 
