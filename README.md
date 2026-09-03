@@ -1,22 +1,26 @@
-
 <div align="center">
 
-   <img
+  <img
     src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=58A6FF&lines=Hi+There+!+👋;I'm+Vianney"
     alt="Typing animation"
   />
-                                                                                                                                     
+
   <br>
 
-  <div style="font-size: 36px; font-weight: bold; color: #58A6FF;">
-    Data &amp; AI Engineer
-  </div>
+  <p>
+    <strong>
+      <span style="font-size: 36px; color: #58A6FF;">
+        Data &amp; AI Engineer
+      </span>
+    </strong>
+  </p>
 
 </div>
 
 <p align="center">
   <strong>Data Engineering · AI Engineering · ML/MLOps · Cloud</strong>
 </p>
+
 
 
 I build **production-oriented data and AI systems** that transform raw data into reliable pipelines, intelligent applications, and deployable machine-learning services.
