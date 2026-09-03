@@ -21,7 +21,6 @@
   <strong>Data Engineering · AI Engineering · ML/MLOps · Cloud</strong>
 </p>
 
-
 I build **production-oriented data and AI systems** that transform raw data into reliable pipelines, intelligent applications, and deployable machine-learning services.
 
 My work focuses on **data platforms, real-time processing, LLM applications, AI agents, RAG systems, and MLOps**, with a strong emphasis on Python, AWS, distributed systems, APIs, testing, and automation.
