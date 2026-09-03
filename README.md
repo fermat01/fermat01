@@ -23,11 +23,9 @@
 
 
 I build **production-oriented data and AI systems** that transform raw data into reliable pipelines, intelligent applications, and deployable machine-learning services.
-
-My current focus is on **data platforms, real-time processing, LLM applications, AI agents, RAG systems, and MLOps**, with a strong emphasis on Python, AWS, distributed systems, APIs, testing, and automation.
+My work focuses on **data platforms, real-time processing, LLM applications, AI agents, RAG systems, and MLOps**, with a strong emphasis on Python, AWS, distributed systems, APIs, testing, and automation.
 
 <br>
-
 
 ## 📊 GitHub Activity
 
@@ -65,61 +63,6 @@ My current focus is on **data platforms, real-time processing, LLM applications,
 | **Backend & APIs**   | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) **REST APIs · Pydantic · Automated Testing · Microservices**                                                                                                                                                                                 |
 | **Cloud & DevOps**   | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) **CI/CD · Containerization · Cloud Architecture · Monitoring · Observability**                                                                       |
 
-
-
-
-## 🔭 Current Focus
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-<strong>🤖 AI Engineering</strong>
-
-<p>Building intelligent applications</p>
-
-<pre>
-├── LLM Applications
-├── RAG Systems
-├── AI Agents
-└── Evaluation & Observability
-</pre>
-
-</td>
-
-<td width="33%" valign="top">
-
-<strong>⚡ Data Engineering</strong>
-
-<p>Building scalable data platforms</p>
-
-<pre>
-├── Streaming Systems
-├── Data Lakes
-├── Distributed Processing
-└── Cloud Data Platforms
-</pre>
-
-</td>
-
-<td width="33%" valign="top">
-
-<strong>🚀 Production Engineering</strong>
-
-<p>Building reliable services</p>
-
-<pre>
-├── APIs & Microservices
-├── Docker & CI/CD
-├── Testing
-└── Monitoring & Observability
-</pre>
-
-</td>
-
-</tr>
-</table>
 
 
 
