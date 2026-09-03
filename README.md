@@ -1,10 +1,21 @@
 
-<h1 align="center">
+<div align="center">
+
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;I'm+Vianney;Data+%26+AI+Engineer"
+    src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=58A6FF&lines=Hi+There!+👋;I'm+Vianney"
     alt="Typing animation"
   />
-</h1>
+
+  <br>
+
+  <strong style="font-size:36px; color:#58A6FF;">
+    Data &amp; AI Engineer
+  </strong>
+
+</div>
+
+
+
 
 <p align="center">
   <strong>Data Engineering · AI Engineering · ML/MLOps · Cloud</strong>
