@@ -41,7 +41,7 @@ My work focuses on **data platforms, real-time processing, LLM applications, AI 
 </table>
 -->
 
-## 🚀 What I Build
+### 🚀 What I Build
 
 - **Data Engineering** — batch & streaming pipelines, ETL/ELT, data lakes, distributed processing
 - **AI Engineering** — LLM applications, RAG pipelines, AI agents, tool calling, and evaluation
@@ -53,7 +53,7 @@ My work focuses on **data platforms, real-time processing, LLM applications, AI 
 
 
 
-## 🛠️ Technical Stack
+### 🛠️ Technical Stack
 
 | Category             | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -66,7 +66,7 @@ My work focuses on **data platforms, real-time processing, LLM applications, AI 
 
 
 
-## 📫 Connect
+### 📫 Connect
 
 - 🌐 **Portfolio:** [coming soon](https://xxxxxxxxxxx.com)
 - ✍️ **Medium:** [@fermat01](https://medium.com/@fermat01)
