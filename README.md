@@ -26,7 +26,7 @@ I build **production-oriented data and AI systems** that transform raw data into
 My work focuses on **data platforms, real-time processing, LLM applications, AI agents, RAG systems, and MLOps**, with a strong emphasis on Python, AWS, distributed systems, APIs, testing and automation.
 
 <br>
-
+<!--
 ## 📊 GitHub Activity
 
 <table>
@@ -39,7 +39,7 @@ My work focuses on **data platforms, real-time processing, LLM applications, AI 
 </td>
 </tr>
 </table>
-
+-->
 
 ## 🚀 What I Build
 
