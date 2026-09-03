@@ -1,69 +1,91 @@
-<!--
-### 👋  hi, there 
-I'm a passionate **Software Developer** and **AI/ML Engineer** with a strong focus on **Data Engineering** and a deep enthusiasm for **AWS Cloud technologies**. 
-My journey in tech has been driven by a desire to leverage data and machine learning to solve real-world problems.
-
-As someone who is always passionate for learning more about tech and extracting information from data.
-I love to build systems that collect, manage, and convert raw data into usable information, analyze data
-using machine learning algorithms and ever since been a self taught software developer also unstopped learner. 
-I have evolved into a Full Stack web development projects and digital systems.
--->
-<!--
-<img src="https://github.com/fermat01/fermat01/blob/master/logo-prof.gif" width="350px" height=200px>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fermat01" />
-<img align="right" src="https://profile-counter.glitch.me/fermat01/count.svg" />
--->
-
-
-<img align="right" src="https://komarev.com/ghpvc/?username=fermat01&color=blue&style=for-the-badge&label=Vianney's+profile+views" />
-
-
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Vianney+!;" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;I'm+Vianney;Data+%26+AI+Engineer"
+    alt="Typing animation"
+  />
 </h1>
 
+<p align="center">
+  <strong>Data Engineering · AI Engineering · ML/MLOps · Cloud</strong>
+</p>
 
+I build **production-oriented data and AI systems** that transform raw data into reliable pipelines, intelligent applications, and deployable machine-learning services.
 
-<table>
-     <td>
-<img align="center"
-  src="https://github-readme-stats-jade-chi.vercel.app/api?username=fermat01&theme=bluefy&show_icons=true&hide_border=true&count_private=true" />
-</td>
+My current focus is on **data platforms, real-time processing, LLM applications, AI agents, RAG systems, and MLOps**, with a strong emphasis on Python, AWS, distributed systems, APIs, testing, and automation.
 
-<td>
-<img align="center"
-     src="https://github-readme-stats-jade-chi.vercel.app/api/top-langs/?username=fermat01&size_weight=0.5&count_weight=0.5&layout=compact&theme=bluefy&include_forks=true&langs_count=15&hide_border=true&hide=jupyter%20notebook" />
-</td>
+---
 
-</table>
+## 🚀 What I Build
 
+- **Data Engineering** — batch & streaming pipelines, ETL/ELT, data lakes, distributed processing
+- **AI Engineering** — LLM applications, RAG pipelines, AI agents, tool calling, and evaluation
+- **ML / MLOps** — model training, experiment tracking, model serving, monitoring, and CI/CD
+- **Cloud & Backend** — AWS, containerized services, REST APIs, and cloud-native architectures
 
+---
 
-
-## Technical Skills 💻 
+## 🛠️ Technical Stack
 
 | Category | Skills |
 |:---|:---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white) [![Go](https://custom-icon-badges.demolab.com/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) ![Shell Script](https://img.shields.io/badge/Shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) |
-| **Data Science & AI** | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-412991?style=flat&logo=pytorch&logoColor=white) ![AI](https://img.shields.io/badge/AI-000000?style=flat&logo=openai&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-276DC3?style=flat&logo=r&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-150458?style=flat&logo=pandas&logoColor=white) |
-| **Data Engineering** | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FFFFFF?style=flat&logo=Apache%20Spark&logoColor=E24F26) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=Apache%20Kafka&logoColor=white) ![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Streaming](https://img.shields.io/badge/Streaming-009688?style=flat&logo=apachekafka&logoColor=white) ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-326CE5?style=flat&logo=kubernetes&logoColor=white)|
-| **MLOps & Backend** | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) [![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat&logo=fastapi&logoColor=white) ![Automated Testing](https://img.shields.io/badge/Automated%20Testing-25A162?style=flat&logo=pytest&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/Sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) [![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff)](#) [![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?logo=apache-cassandra&logoColor=white)](#) |
-| **Web Development** | ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) 
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white) |
+| **Data Engineering** | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white) **ETL/ELT · Batch Processing · Stream Processing · Data Lakes · Distributed Systems** |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) **LLMs · RAG · Embeddings · AI Agents · LangChain · LangGraph · Model Evaluation** |
+| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) **REST APIs · Pydantic · Automated Testing · Microservices** |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) **CI/CD · Containerization · Cloud Architecture · Monitoring · Observability** |
 
-<!--
-**fermat01/fermat01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats-jade-chi.vercel.app/api?username=fermat01&theme=bluefy&show_icons=true&hide_border=true&count_private=true" />
+</td>
+<td>
+<img src="https://github-readme-stats-jade-chi.vercel.app/api/top-langs/?username=fermat01&layout=compact&theme=bluefy&include_forks=true&langs_count=10&hide_border=true&hide=jupyter%20notebook" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🔭 Current Focus
+
+```text
+AI Engineering
+├── LLM Applications
+├── RAG Systems
+├── AI Agents
+└── Evaluation & Observability
+
+Data Engineering
+├── Streaming Systems
+├── Data Lakes
+├── Distributed Processing
+└── Cloud Data Platforms
+
+Production Engineering
+├── APIs & Microservices
+├── Docker & CI/CD
+├── Testing
+└── Monitoring & Observability
+```
+
+---
+
+## 📫 Connect
+
+- 🌐 **Portfolio:** [coming soon](https://xxxxxxxxxxx.com)
+- ✍️ **Medium:** [@fermat01](https://medium.com/@fermat01)
+- 🐙 **GitHub:** [@fermat01](https://github.com/fermat01)
+
+---
+
+<p align="center">
+  <i>Building data and AI systems, one project at a time.</i>
+</p>
+
+
